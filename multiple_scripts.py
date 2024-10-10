@@ -33,6 +33,7 @@ def main():
     # List of Python files to monitor
     file_list = [
         os.path.join(base_path, 'sticker_bot.py'),  # Full path to the file
+        os.path.join(base_path, 'inline.py'),
         # Add more files as needed
     ]
 
